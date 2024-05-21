@@ -1,0 +1,18 @@
+account creation:
+ fullname-String
+ email-String
+ password-String
+ cart-array
+ isadmin:boolean
+ orders-array
+ contact-number
+profile picture-db
+
+product db:
+image
+price 
+name
+discount-price
+bgcolor
+panalcolor
+textcolor
